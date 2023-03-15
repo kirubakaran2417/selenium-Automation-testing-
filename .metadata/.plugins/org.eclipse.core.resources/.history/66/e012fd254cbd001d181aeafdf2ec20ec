@@ -1,0 +1,16 @@
+package basics;
+
+public class Operators {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Arithmetic operators-+,-,*,/,%
+		 * Relational operators->,>=,<,<=,==,!=
+		 * Logical operator
+		 * 
+		 */
+		
+		System.out.println(5>3);
+	}
+}

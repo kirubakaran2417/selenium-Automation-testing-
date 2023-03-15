@@ -1,0 +1,20 @@
+package basics;
+
+public class Operators {
+
+	public static void main(String[] mary) {
+		
+		/*
+		 * Arithmetic operators-+,-,*,/,%
+		 * Relational operators->,>=,<,<=,==,!=
+		 * Logical operator= &&, ||, !
+		 * unary operators= ++,--
+		 */
+		
+		System.out.println(!(5<3));
+		
+		int a=4;
+		a+=1;//a=a+1 a++
+		System.out.println(a);
+	}
+}

@@ -1,0 +1,17 @@
+package basics;
+
+public class temp {
+
+	public static void main(String[] args) {
+		
+		int dhana;
+		
+		for(dhana=1;dhana<=10;dhana=dhana+1) {
+			
+			   System.out.println(dhana);
+			   
+			  }
+		System.out.println("dhana becomes "+dhana+" so i came out of loop");
+	}
+		  //dhana++ == dhana=dhana+1
+}
