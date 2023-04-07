@@ -1,0 +1,36 @@
+
+public class stringss {
+
+	public static void main(String[] args) {
+		//using string literal
+		String name="mary";
+	int lengthofstr=name.length();
+	System.out.println("Length of string is "+lengthofstr);
+
+	
+	String name2="karthick";
+	String name3=new String("MARY");
+	String name4=new String("mary");
+	System.out.println(name2.equalsIgnoreCase(name3));
+	System.out.println(name3==name4);
+	
+	System.out.println(name.charAt(0));
+	System.out.println(name.indexOf("a"));
+	
+	System.out.println(name.substring(1,3));
+	
+	System.out.println(name+name2);
+	System.out.println(name.concat(name2));
+	
+	StringBuffer strbuf=new StringBuffer("hello");
+	strbuf.append(" world");
+	System.out.println(strbuf);
+	strbuf.delete(5, 11);
+	strbuf.deleteCharAt(3);
+	System.out.println(strbuf);
+
+	}
+}
+
+	
+	

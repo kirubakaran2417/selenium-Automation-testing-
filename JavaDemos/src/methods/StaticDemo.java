@@ -23,6 +23,12 @@ public class StaticDemo {
 		StaticDemo s=new StaticDemo();
 		System.out.println(s.b);//non static variable
 		s.display2();//non static method
+		
+		
+		
+		
+		
+		
 		System.out.println(a);//static variable	
 		display();
 	}

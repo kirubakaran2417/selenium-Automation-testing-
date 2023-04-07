@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Parentclass.java&apos; to &apos;oops.Parentclass.java&apos;&#x0D;&#x0A;- Original project: &apos;JavaDemos&apos;&#x0D;&#x0A;- Destination element: &apos;oops.Parentclass.java&apos;&#x0D;&#x0A;- Original element: &apos;oops.Parentclass.java&apos;" description="Copy compilation unit" destination="/src&lt;oops{Parentclass.java" element1="/src&lt;oops{Parentclass.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1679532715190" units="1" version="1.0"/>
+</session>

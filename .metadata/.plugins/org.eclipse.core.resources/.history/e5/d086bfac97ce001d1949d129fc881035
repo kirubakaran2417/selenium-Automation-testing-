@@ -1,0 +1,13 @@
+
+public class stringss {
+
+	public static void main(String[] args) {
+		//using string literal
+		String name="mary";
+	int lengthofstr=name.length();
+	System.out.println("Length of string is "+lengthofstr);
+	}
+}
+
+	
+	

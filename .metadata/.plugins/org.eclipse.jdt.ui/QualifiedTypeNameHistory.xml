@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="methods.Student"/>
+    <fullyQualifiedTypeName name="methods.LocalVariabledemo"/>
+    <fullyQualifiedTypeName name="methods.StaticDemo"/>
+    <fullyQualifiedTypeName name="methods.Parametersdemo"/>
+    <fullyQualifiedTypeName name="methods.Employee"/>
+    <fullyQualifiedTypeName name="methods.Automation"/>
+    <fullyQualifiedTypeName name="oops.Childclass"/>
+    <fullyQualifiedTypeName name="oops.Parentclass"/>
+    <fullyQualifiedTypeName name="oops.Shapes"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
 </qualifiedTypeNameHistroy>

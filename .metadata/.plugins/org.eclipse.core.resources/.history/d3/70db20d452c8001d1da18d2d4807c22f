@@ -1,0 +1,16 @@
+package oops;
+
+public class Subclass extends Superclass{
+
+	void methodsubclass() {
+		int c=a+b;
+		System.out.println(c);
+		System.out.println("Im a subclass");
+	}
+	
+	public static void main(String[] args) {
+		Subclass s=new Subclass();
+		s.methodsubclass();
+		s.methodsuper();
+	}
+}
