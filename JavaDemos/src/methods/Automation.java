@@ -7,7 +7,7 @@ public class Automation {
 	public Automation() {
 		
 	}
-	private Automation(String name,String age) {
+	public Automation(String name,String age) {
 		this.name=name;
 		this.age=age;
 	}
